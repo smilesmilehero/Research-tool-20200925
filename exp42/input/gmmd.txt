@@ -1,0 +1,10 @@
+gmmd train.crp ref/GMM-1.16 16 1   40 
+gmmd train.crp ref/GMM-2.16 16 2   40 
+gmmd train.crp ref/GMM-3.16 16 3   40 
+gmmd train.crp ref/GMM-4.16 16 4   40 
+gmmd train.crp ref/GMM-5.16 16 5   40 
+gmmd train.crp ref/GMM-6.16 16 6   40 
+gmmd train.crp ref/GMM-7.16 16 7   40 
+gmmd train.crp ref/GMM-8.16 16 8   40 
+gmmd train.crp ref/GMM-9.16 16 9   40 
+gmmd train.crp ref/GMM-10.16 16 10   40 

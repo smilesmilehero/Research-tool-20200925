@@ -1,0 +1,1 @@
+gmmdrec test.crp GMM-16.lst 10 res\ans 0
